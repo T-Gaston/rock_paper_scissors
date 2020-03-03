@@ -1,0 +1,21 @@
+p {
+  font-size: 23px;
+}
+
+.choices {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.computerChoice {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.displayResult {
+  text-align: center;
+}
